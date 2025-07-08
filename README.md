@@ -15,8 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prince3585/Leetcode_problem/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/prince3585/Leetcode_problem/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/prince3585/Leetcode_problem/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/prince3585/Leetcode_problem/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/prince3585/Leetcode_problem/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
