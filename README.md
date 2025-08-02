@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prince3585/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prince3585/Leetcode_problem/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/prince3585/Leetcode_problem/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
