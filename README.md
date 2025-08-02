@@ -33,8 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/prince3585/Leetcode_problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/prince3585/Leetcode_problem/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/prince3585/Leetcode_problem/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prince3585/Leetcode_problem/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/prince3585/Leetcode_problem/tree/master/1054-complement-of-base-10-integer) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prince3585/Leetcode_problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
