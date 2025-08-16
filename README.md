@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/prince3585/Leetcode_problem/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3585/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/prince3585/Leetcode_problem/tree/master/0283-move-zeroes) |
+| [1319-unique-number-of-occurrences](https://github.com/prince3585/Leetcode_problem/tree/master/1319-unique-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prince3585/Leetcode_problem/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/prince3585/Leetcode_problem/tree/master/0242-valid-anagram) |
+| [1319-unique-number-of-occurrences](https://github.com/prince3585/Leetcode_problem/tree/master/1319-unique-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
