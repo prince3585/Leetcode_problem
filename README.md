@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prince3585/Leetcode_problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prince3585/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/prince3585/Leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/prince3585/Leetcode_problem/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince3585/Leetcode_problem/tree/master/0746-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/prince3585/Leetcode_problem/tree/master/1319-unique-number-of-occurrences) |
 ## Dynamic Programming
@@ -103,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prince3585/Leetcode_problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/prince3585/Leetcode_problem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
