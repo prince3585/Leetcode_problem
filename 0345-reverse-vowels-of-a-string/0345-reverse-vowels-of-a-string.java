@@ -7,18 +7,12 @@ class Solution {
 
         while(i<j){
 
-            while(i<j){
-                char ch = arr[i];
-                if(vowels.indexOf(ch) != -1){
-                    break;
-                }
+            while(i<j && vowels.indexOf(arr[i]) == -1) {
+              
                 i++;
             }
-            while(i<j){
-                char ch = arr[j];
-                 if(vowels.indexOf(ch) != -1){
-                    break;
-                }
+            while(i<j  && vowels.indexOf(arr[j]) == -1 ){
+              
                 j--;
             }
 
