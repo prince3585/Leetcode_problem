@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/prince3585/Leetcode_problem/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prince3585/Leetcode_problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/prince3585/Leetcode_problem/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/prince3585/Leetcode_problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prince3585/Leetcode_problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/prince3585/Leetcode_problem/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince3585/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/prince3585/Leetcode_problem/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prince3585/Leetcode_problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prince3585/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince3585/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/prince3585/Leetcode_problem/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
