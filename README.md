@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/prince3585/Leetcode_problem/tree/master/0746-min-cost-climbing-stairs) |
 | [1319-unique-number-of-occurrences](https://github.com/prince3585/Leetcode_problem/tree/master/1319-unique-number-of-occurrences) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/prince3585/Leetcode_problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prince3585/Leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prince3585/Leetcode_problem/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prince3585/Leetcode_problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prince3585/Leetcode_problem/tree/master/0392-is-subsequence) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prince3585/Leetcode_problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
 |  |
 | ------- |
